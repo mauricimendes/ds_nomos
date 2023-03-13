@@ -1,0 +1,24 @@
+LIST COMPONENTS
+- atoms
+  - Title V
+  - Subtitle V
+  - Filter V
+  - Button V
+  - Avatar V
+  - Name V
+  - Info V
+  - Role V
+  - Function V
+  - Navbar V
+
+- Molecules
+  - Filters V
+  - StakeholderItem
+  - StakeholderDetails
+  - DetailsAvatar
+  - DetailsInfo
+  - DetailsBiography
+
+- organisms
+  - Stackholder
+  - StackholderDetails
